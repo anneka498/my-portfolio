@@ -48,6 +48,7 @@ p, nav {
 ul {
     display: table;
     margin: 0 auto;
+    list-style-position: inside;
 }
 figcaption {
     text-align: center;
