@@ -1,0 +1,61 @@
+
+main {
+    font-family: "Roboto";
+    color: rgb(80, 26, 30);
+}
+.my-name {
+    margin: 0;
+    padding: 20px;
+    background-color: mistyrose;
+    border-bottom-style: double;
+    border-color:white;
+}  
+.my-name p{
+    margin-top:-40px;
+}
+.port {
+    margin-top: 100px;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding: 20px;
+    background-color: mistyrose;
+    border-style: double;
+    border-color: white;
+    line-height: 8mm;
+}  
+.img-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Kufam";
+
+}
+h2 {
+    text-align: left;
+    padding-left: -20px;
+    font-family: "Kufam";
+    font-weight: 400;
+   
+}
+p, nav {
+    text-align: center;
+}
+ul {
+    display: table;
+    margin: 0 auto;
+}
+figcaption {
+    text-align: center;
+    font-size: smaller;
+    font-style: italic;
+    line-height: 5mm;
+}
+.links img,.links a{
+    text-decoration: none;
+    padding: 10px
+}
