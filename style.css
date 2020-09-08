@@ -2,7 +2,6 @@
 main {
     font-family: "Roboto";
     color: rgb(80, 26, 30);
-    flex: none;
 }
 .my-name {
     margin: 0;
