@@ -15,10 +15,10 @@ main {
     margin-top:-40px;
 }
 .port {
-    margin-top: 100px;
-    margin-right: 500px;
-    margin-left: 500px;
-    padding: 20px;
+    margin-top: 10%;
+    margin-right: 35%;
+    margin-left: 35%;
+    padding: 2%;
     background-color: mistyrose;
     border-style: double;
     border-color: white;
@@ -60,19 +60,4 @@ figcaption {
 .links img,.links a{
     text-decoration: none;
     padding: 10px
-}
-.flex-init-setup {
-    display: -webkit-box;
-    display: -moz-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-}
-.flex-ppal-setup {
-    -webkit-flex-flow: column wrap;
-    -moz-flex-flow: column wrap;
-    flex-flow: column wrap;
-    -webkit-justify-content: center;
-    -moz-justify-content: center;
-    justify-content: center;
 }
