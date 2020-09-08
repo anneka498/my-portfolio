@@ -2,6 +2,7 @@
 main {
     font-family: "Roboto";
     color: rgb(80, 26, 30);
+    flex: none;
 }
 .my-name {
     margin: 0;
@@ -59,4 +60,19 @@ figcaption {
 .links img,.links a{
     text-decoration: none;
     padding: 10px
+}
+.flex-init-setup {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.flex-ppal-setup {
+    -webkit-flex-flow: column wrap;
+    -moz-flex-flow: column wrap;
+    flex-flow: column wrap;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center;
 }
