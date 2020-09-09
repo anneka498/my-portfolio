@@ -9,8 +9,9 @@ main {
     border-bottom-style: double;
     border-color:white;
 }  
-.my-name p{
-    margin-top:-40px;
+.my-name p {
+    margin-top:-3.5%;
+    /*nests the tagline closer to the header*/
 }
 .port {
     margin-top: 10%;
@@ -27,6 +28,7 @@ main {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    /*keeps image inside proper dimensions in any resolution according to the section*/
     border-style: double;
     border-color: white;
 }
@@ -50,6 +52,7 @@ ul {
     display: table;
     margin: 0 auto;
     list-style-position: inside;
+    /*centers list without centering only the text after bullet points*/
 }
 figcaption {
     text-align: center;
@@ -59,6 +62,7 @@ figcaption {
 }
 .links img,.links a{
     text-decoration: none;
+    /*removes awkward lines from under link images*/
     padding: 10px
 }
 
