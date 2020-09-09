@@ -10,7 +10,7 @@ main {
     border-color:white;
 }  
 .my-name p {
-    margin-top:-3.5%;
+    margin-top:-45px;
     /*nests the tagline closer to the header*/
 }
 .port {
