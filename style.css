@@ -27,6 +27,8 @@ main {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    border-style: double;
+    border-color: white;
 }
 h1 {
     text-align: center;
